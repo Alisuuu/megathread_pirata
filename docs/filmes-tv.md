@@ -1,4 +1,4 @@
-# 🎦 ➜ Filmes e TV
+# 🎦 ➜ Filmes e TV 
 
 Filmes e TV são obras de arte visual que empregam imagens em movimento para imitar experiências, percepções, sentimentos e beleza.
 
@@ -46,6 +46,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [NetCine](https://netcinex.si/)
 
 - Lançamentos com resolução 1080p, 720p ou até em HDCAM. Em caso de anti-adblock, use o PopUpOFF.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
+
+### 🌟 [suquinho](https://suquinho.netlify.app/)
+
+-  Webapp que você pode configurar uma api pra fontes de filmes e series ou usar uma existente. ele usa a tecnologia pwa, voce pode instalar tanto no windows, android ou ios.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
 
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
